@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  iseltech17spa.presentationweb:
+    image: iseltech17spa.presentationweb
+    build:
+      context: ./Iseltech17SPA.PresentationWeb
+      dockerfile: Dockerfile
