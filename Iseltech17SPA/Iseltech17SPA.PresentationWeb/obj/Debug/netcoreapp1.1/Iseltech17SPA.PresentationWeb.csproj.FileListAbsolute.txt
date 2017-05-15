@@ -1,9 +1,0 @@
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\bin\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.deps.json
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\bin\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.runtimeconfig.json
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\bin\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.runtimeconfig.dev.json
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\bin\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.dll
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\bin\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.pdb
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\obj\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.csprojResolveAssemblyReference.cache
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\obj\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.AssemblyInfo.cs
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\obj\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.dll
-D:\GIT\presentation-iseltech17-spa\Iseltech17SPA\Iseltech17SPA.PresentationWeb\obj\Debug\netcoreapp1.1\Iseltech17SPA.PresentationWeb.pdb
