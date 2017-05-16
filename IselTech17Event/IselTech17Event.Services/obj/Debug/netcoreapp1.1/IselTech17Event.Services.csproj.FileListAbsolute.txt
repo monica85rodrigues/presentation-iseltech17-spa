@@ -1,7 +1,0 @@
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.Services\bin\Debug\netcoreapp1.1\IselTech17Event.Services.deps.json
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.Services\bin\Debug\netcoreapp1.1\IselTech17Event.Services.dll
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.Services\bin\Debug\netcoreapp1.1\IselTech17Event.Services.pdb
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.Services\obj\Debug\netcoreapp1.1\IselTech17Event.Services.csprojResolveAssemblyReference.cache
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.Services\obj\Debug\netcoreapp1.1\IselTech17Event.Services.AssemblyInfo.cs
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.Services\obj\Debug\netcoreapp1.1\IselTech17Event.Services.dll
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.Services\obj\Debug\netcoreapp1.1\IselTech17Event.Services.pdb
