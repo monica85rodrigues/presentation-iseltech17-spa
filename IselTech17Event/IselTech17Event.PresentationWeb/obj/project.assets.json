@@ -3677,18 +3677,10 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "IselTech17Event.DTOs/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v1.1",
-        "dependencies": {
-          "Microsoft.NETCore.App": "1.1.1"
-        }
-      },
       "IselTech17Event.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
-          "IselTech17Event.DTOs": "1.0.0",
           "Microsoft.NETCore.App": "1.1.1"
         }
       }
@@ -9809,11 +9801,6 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "IselTech17Event.DTOs/1.0.0": {
-      "type": "project",
-      "path": "../IselTech17Event.DTOs/IselTech17Event.DTOs.csproj",
-      "msbuildProject": "../IselTech17Event.DTOs/IselTech17Event.DTOs.csproj"
     },
     "IselTech17Event.Services/1.0.0": {
       "type": "project",
