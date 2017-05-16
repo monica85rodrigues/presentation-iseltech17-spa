@@ -1,5 +1,0 @@
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.PresentationWeb\bin\Debug\netcoreapp1.1\IselTech17Event.PresentationWeb.deps.json
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.PresentationWeb\bin\Debug\netcoreapp1.1\IselTech17Event.PresentationWeb.runtimeconfig.json
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.PresentationWeb\bin\Debug\netcoreapp1.1\IselTech17Event.PresentationWeb.runtimeconfig.dev.json
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.PresentationWeb\obj\Debug\netcoreapp1.1\IselTech17Event.PresentationWeb.csprojResolveAssemblyReference.cache
-D:\GIT\presentation-iseltech17-spa\IselTech17Event\IselTech17Event.PresentationWeb\obj\Debug\netcoreapp1.1\IselTech17Event.PresentationWeb.AssemblyInfo.cs

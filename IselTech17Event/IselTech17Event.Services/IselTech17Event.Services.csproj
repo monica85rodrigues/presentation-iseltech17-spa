@@ -8,4 +8,8 @@
     <Folder Include="Implementations\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IselTech17Event.DTOs\IselTech17Event.DTOs.csproj" />
+  </ItemGroup>
+
 </Project>
