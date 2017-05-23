@@ -3,7 +3,5 @@
 
 ## First steps and requirements
 
-* Install nodejs
-* Visual Studio 2017
-* Install docker for windows or docker tollbox if you won't had windows 10 PRO.
+* soon
 
