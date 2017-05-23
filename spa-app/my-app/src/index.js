@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/app/App';
+import CheckinSystem from './components/checkinSystem/CheckinSystem';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <CheckinSystem />,
   document.getElementById('root')
 );

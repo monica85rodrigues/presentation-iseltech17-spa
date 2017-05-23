@@ -1,4 +1,4 @@
-.tracks .track{
+.users .user{
   height: 160px;
   position: relative;
   border: 1px solid #363b3f;
@@ -10,7 +10,7 @@
   box-shadow: 3px 3px 3px #888888;
 }
 
-.tracks .track .content {
+.users .user .content {
   margin: 0;
   position: absolute;
   bottom: 0;
@@ -20,25 +20,25 @@
   height: 33%;
 }
 
-.tracks .track .actions {
+.users .user .actions {
     position: absolute;
     right: 0;
     bottom: 0;
 }
 
-.tracks .actions a{
+.users .actions a{
   color: #fff;
 }
 
-.tracks .actions a{
+.users .actions a{
   color: #fff;
 }
 
-.tracks .photo {
+.users .photo {
     width: 100%;
     height: 100%;
 }
 
-.tracks .checkin {
+.users .checkin {
     background-color: green;
 }
