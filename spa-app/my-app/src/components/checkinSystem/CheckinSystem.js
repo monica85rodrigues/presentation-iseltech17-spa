@@ -20,10 +20,6 @@ class CheckinSystem extends Component
     {
         this.state.users[userIndex].isCheckin = true;
         this.forceUpdate();
-
-        //this.setState({   -- perceber a melhor maneira de fazer este metodo
-        //    users: update(this.state.users, { isCheckin: {$set: true} } )
-        //});
     }
 
     render() 
